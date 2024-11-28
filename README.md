@@ -1,9 +1,8 @@
-Sheldon Maschmeyer
-CTO of Alpha-El Inc.
-See: alpha-el.ca
+# Sheldon Maschmeyer
+## CTO of [Alpha-El Inc.](https://alpha-el.ca)
 
-See: https://ca.linkedin.com/in/sheldonmaschmeyer
-See: maschmeyer.ca
+#### See: [LinkedIn](https://ca.linkedin.com/in/sheldonmaschmeyer)
+#### See: [Maschmeyer.ca](https://maschmeyer.ca)
 
 <!---
 SheldonWBM/SheldonWBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
